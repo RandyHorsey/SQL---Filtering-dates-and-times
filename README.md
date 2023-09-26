@@ -16,7 +16,7 @@ Gathering data of recent login attempts and times to investigate a recent securi
 <h2>Examples:</h2>
 
  <h4>
-Retrieved login attempts after a certain date: </h4>
+Retrieved login attempts after a certain date (inclusive): </h4>
 <img src="https://imgur.com/5xuHJT2.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>
 Retrieved logins in a date range:  </h4>
