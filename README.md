@@ -23,5 +23,5 @@ Retrieved logins in a date range:  </h4>
 <img src="https://imgur.com/95D65TY.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>Investigated logins at certain times:  </h4>
 <img src="https://imgur.com/SbwOr6z.png" height="65%" width="70%" alt="Security Audit"/>
-<h4>Listed employees in a specific department using the wildcard:  </h4>
-<img src="https://imgur.com/UsF3rSo.png" height="65%" width="65%" alt="Security Audit"/>
+<h4>Investigated logins by event ID:  </h4>
+<img src="https://imgur.com/eSTIjmO.png" height="65%" width="65%" alt="Security Audit"/>
