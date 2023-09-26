@@ -7,10 +7,12 @@ Gathering data of recent login attempts and times to investigate a recent securi
 <h4>MariaDB shell<h4>
 <h2>SQL operators used</h2>
 
-- <b>SELECT</b> 
-- <b>FROM</b>
-- <b>%</b>
-- <b>LIKE</b>
+- <b>=</b> 
+- <b>></b>
+- <b><</b>
+- <b><></b>
+- <b>>=</b>
+- <b><=</b>
 <h2>Examples:</h2>
 
  <h4>
